@@ -7,7 +7,7 @@
     box-sizing: border-box;
 }
 
-/* Defining variable bcz we dont want to write again and again*/
+/* Defining variable bcz we dont want to repeat color again and again*/
 :root{
     --primary-text-color:#183b56;
     --secondary-text-color:#577592;
